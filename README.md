@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Omar Suliman</h1>
 <h3 align="center">I'm Omar Suliman, CS Student, Flutter Developer Interested in Mobile Development, Cper, and Core CS like Operating Systems, Database, Networks and other.</h3>
 
-<p align="left">- 📫 How to reach me: <b>omarsuliman294@gmail.com</b></p>
+<p align="left">- 📫 How to reach me: <b><a href="mailto:omarsuliman294@gmail.com">omarsuliman294@gmail.com</a></b></p>
 
 <h3 align="left">Connect with me:</h3>
 <table>
